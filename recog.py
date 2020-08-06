@@ -5,7 +5,7 @@ import cv2
 import re
 import os
 import glob
-import psycopg2
+#import psycopg2
 from pathlib import Path
 import argparse
 import configparser
