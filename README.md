@@ -1,7 +1,3 @@
 # Information
-Video processing for complex hierarchy based on yolo-tiny
+Video processing for complex folder hierarchy based on yolo-tiny. The first revision is for Windows file system. Updates are coming soon.
 
-## Running
-```
-python recog.py
-```
